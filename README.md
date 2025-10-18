@@ -15,8 +15,3 @@ A full-stack **Spring Boot To-Do List** web app with authentication and responsi
 - RESTful APIs
 - Responsive UI with Bootstrap
 
-## ⚙️ Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/todo-application.git
